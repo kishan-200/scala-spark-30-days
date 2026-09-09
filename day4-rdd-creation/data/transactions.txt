@@ -1,0 +1,10 @@
+T001,Laptop,55000
+T002,Mouse,800
+T003,Keyboard,1500
+T004,Monitor,12000
+T005,Headphones,3000
+T006,Webcam,2500
+T007,Laptop,55000
+T008,Mouse,800
+T009,Keyboard,1500
+T010,Monitor,12000
