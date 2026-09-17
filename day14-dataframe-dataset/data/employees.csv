@@ -1,0 +1,13 @@
+employee_id,name,department,designation,basic_salary,bonus,tax
+E001,Aarav,Engineering,Software Engineer,60000,8000,5000
+E002,Diya,Engineering,Senior Engineer,85000,12000,9000
+E003,Arjun,HR,HR Executive,50000,6000,4000
+E004,Ananya,Finance,Accountant,55000,7000,4500
+E005,Rahul,Engineering,Tech Lead,100000,15000,12000
+E006,Ishita,HR,HR Manager,75000,10000,8000
+E007,Vikram,Finance,Financial Analyst,65000,9000,6000
+E008,Meera,Engineering,Software Engineer,62000,7500,5500
+E009,Karan,Finance,Finance Manager,90000,13000,10000
+E010,Sneha,HR,Recruiter,48000,5000,3500
+E011,Rohan,Engineering,DevOps Engineer,78000,11000,8000
+E012,Priya,Finance,Accountant,58000,6500,5000
