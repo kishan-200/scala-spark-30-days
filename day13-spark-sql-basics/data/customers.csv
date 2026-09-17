@@ -1,0 +1,16 @@
+customer_id,name,age,city,segment,total_spend,orders
+C001,Aarav,24,Bengaluru,Regular,45000,8
+C002,Diya,29,Mumbai,Premium,82000,14
+C003,Arjun,35,Hyderabad,Premium,95000,16
+C004,Ananya,22,Pune,Regular,28000,5
+C005,Rahul,41,Chennai,Premium,110000,20
+C006,Ishita,31,Delhi,Regular,52000,9
+C007,Vikram,27,Bengaluru,Regular,39000,7
+C008,Meera,38,Mumbai,Premium,88000,15
+C009,Karan,45,Hyderabad,Premium,125000,22
+C010,Sneha,26,Pune,Regular,31000,6
+C011,Rohan,33,Chennai,Regular,57000,10
+C012,Priya,28,Delhi,Premium,76000,13
+C013,Aditya,36,Bengaluru,Premium,102000,18
+C014,Kavya,23,Mumbai,Regular,26000,4
+C015,Manish,39,Hyderabad,Premium,118000,21

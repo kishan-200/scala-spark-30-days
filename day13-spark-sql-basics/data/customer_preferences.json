@@ -1,0 +1,77 @@
+[
+  {
+    "customer_id": "C001",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 1200
+  },
+  {
+    "customer_id": "C002",
+    "preferred_channel": "Web",
+    "loyalty_points": 2500
+  },
+  {
+    "customer_id": "C003",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 3100
+  },
+  {
+    "customer_id": "C004",
+    "preferred_channel": "Web",
+    "loyalty_points": 900
+  },
+  {
+    "customer_id": "C005",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 4200
+  },
+  {
+    "customer_id": "C006",
+    "preferred_channel": "Web",
+    "loyalty_points": 1800
+  },
+  {
+    "customer_id": "C007",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 1400
+  },
+  {
+    "customer_id": "C008",
+    "preferred_channel": "Web",
+    "loyalty_points": 2700
+  },
+  {
+    "customer_id": "C009",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 4500
+  },
+  {
+    "customer_id": "C010",
+    "preferred_channel": "Web",
+    "loyalty_points": 1000
+  },
+  {
+    "customer_id": "C011",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 2100
+  },
+  {
+    "customer_id": "C012",
+    "preferred_channel": "Web",
+    "loyalty_points": 2900
+  },
+  {
+    "customer_id": "C013",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 3600
+  },
+  {
+    "customer_id": "C014",
+    "preferred_channel": "Web",
+    "loyalty_points": 800
+  },
+  {
+    "customer_id": "C015",
+    "preferred_channel": "Mobile",
+    "loyalty_points": 4000
+  }
+]
