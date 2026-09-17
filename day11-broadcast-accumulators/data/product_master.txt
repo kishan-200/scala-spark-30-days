@@ -1,0 +1,8 @@
+P001,Laptop,Electronics,55000
+P002,Mouse,Electronics,800
+P003,Keyboard,Electronics,1500
+P004,Monitor,Electronics,12000
+P005,Chair,Furniture,7000
+P006,Desk,Furniture,12000
+P007,Printer,Office,15000
+P008,Paper,Office,500
