@@ -1,0 +1,14 @@
+customer_id,policy_id,policy_type,policy_status,policy_date,premium
+C101,P001,Health,Active,2025-01-15,12000
+C101,P002,Health,Active,2025-08-20,15000
+C101,P003,Life,Active,2026-02-10,18000
+C102,P004,Auto,Expired,2024-06-10,9000
+C102,P005,Auto,Active,2025-03-18,11000
+C102,P006,Home,Active,2026-01-25,14000
+C103,P007,Life,Active,2025-02-12,16000
+C103,P008,Life,Expired,2025-11-30,17000
+C103,P009,Health,Active,2026-03-05,19000
+C104,P010,Auto,Active,2024-12-10,8000
+C104,P011,Auto,Active,2025-07-15,10000
+C105,P012,Home,Active,2025-04-20,13000
+C105,P013,Home,Active,2026-02-28,15500
