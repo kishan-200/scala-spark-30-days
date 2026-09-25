@@ -1,0 +1,16 @@
+department,doctor,patient_type,revenue
+Cardiology,Dr_A,Consultation,50000
+Cardiology,Dr_B,Surgery,80000
+Cardiology,Dr_C,Consultation,45000
+Neurology,Dr_D,Surgery,70000
+Neurology,Dr_E,Consultation,35000
+Neurology,Dr_F,Surgery,65000
+Orthopedics,Dr_G,Surgery,60000
+Orthopedics,Dr_H,Consultation,30000
+Orthopedics,Dr_I,Surgery,75000
+Emergency,Dr_J,Emergency,40000
+Emergency,Dr_K,Emergency,55000
+Emergency,Dr_L,Emergency,35000
+Pediatrics,Dr_M,Consultation,25000
+Pediatrics,Dr_N,Consultation,30000
+Pediatrics,Dr_O,Surgery,45000
