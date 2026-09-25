@@ -1,0 +1,8 @@
+payment_id,order_id,payment_method,payment_status
+P001,O1001,Card,Completed
+P002,O1002,UPI,Completed
+P003,O1003,Card,Pending
+P004,O1004,UPI,Completed
+P005,O1005,Cash,Completed
+P006,O1006,Card,Failed
+O999,O999,UPI,Completed
