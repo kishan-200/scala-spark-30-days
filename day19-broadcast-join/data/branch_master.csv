@@ -1,0 +1,9 @@
+branch_id,branch_name,city,region
+B001,Central Branch,Bangalore,South
+B002,North Branch,Delhi,North
+B003,East Branch,Kolkata,East
+B004,West Branch,Mumbai,West
+B005,South Branch,Chennai,South
+B006,Hyderabad Branch,Hyderabad,South
+B007,Pune Branch,Pune,West
+B008,Ahmedabad Branch,Ahmedabad,West
