@@ -1,0 +1,13 @@
+booking_id,customer_id,hotel,city,room_type,check_in,check_out,guests,amount,status
+B001,C101,Grand Palace,Bangalore,Deluxe,2026-09-01,2026-09-03,2,18000,Confirmed
+B002,C102,Sea View,Goa,Suite,2026-09-02,2026-09-05,3,36000,Confirmed
+B003,C103,City Inn,Hyderabad,Standard,2026-09-03,2026-09-04,1,5000,Cancelled
+B004,C104,Grand Palace,Bangalore,Suite,2026-09-04,2026-09-07,4,42000,Confirmed
+B005,C105,Mountain Resort,Ooty,Deluxe,2026-09-05,2026-09-08,2,24000,Confirmed
+B006,C106,Sea View,Goa,Standard,2026-09-06,2026-09-08,2,14000,Completed
+B007,C107,City Inn,Hyderabad,Deluxe,2026-09-07,2026-09-10,3,21000,Confirmed
+B008,C108,Grand Palace,Bangalore,Standard,2026-09-08,2026-09-09,1,7000,Completed
+B009,C109,Mountain Resort,Ooty,Suite,2026-09-09,2026-09-12,4,39000,Confirmed
+B010,C110,Sea View,Goa,Deluxe,2026-09-10,2026-09-13,2,27000,Completed
+B011,C111,City Inn,Hyderabad,Standard,2026-09-11,2026-09-13,2,11000,Confirmed
+B012,C112,Grand Palace,Bangalore,Deluxe,2026-09-12,2026-09-15,3,28000,Confirmed
