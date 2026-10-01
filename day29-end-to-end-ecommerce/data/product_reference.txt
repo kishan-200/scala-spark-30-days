@@ -1,0 +1,5 @@
+P001,Smartphone,Electronics,25000
+P002,Headphones,Electronics,12000
+P003,TShirt,Fashion,1500
+P004,Chair,Home,3000
+P005,CricketBat,Sports,8000
