@@ -1,0 +1,4 @@
+B001,Low
+B002,Medium
+B003,High
+B004,Low
