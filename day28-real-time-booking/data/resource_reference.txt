@@ -1,0 +1,6 @@
+H001,Hotel Sunrise,Hotel,100
+H002,Hotel Grand,Hotel,80
+F001,IndiGo Flight,Flight,180
+F002,Air India Flight,Flight,200
+B001,RedBus Service,Bus,50
+B002,VRL Bus Service,Bus,45
